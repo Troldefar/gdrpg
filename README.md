@@ -1,3 +1,3 @@
-# gdrpg
+# gdrpggamethatnevercametolifesohereweare
 
-Random game jam session
+Random game jam session with gdscript
